@@ -1,3 +1,6 @@
+# Графи
+
+## Граф демонструє план моєї квартири
 <img width="555" alt="Screenshot 2024-10-13 at 19 19 12" src="https://github.com/user-attachments/assets/c5200f55-e33c-4c53-a4b1-cfcc7a5c58af">
 
 ## резульати DFS:
